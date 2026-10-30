@@ -203,7 +203,7 @@ export default function Home() {
 
     {/* DISCORD */}
     <a
-      href="https://discord.gg/DgRrmkfH3h"
+      href="https://discord.gg/Q6EDgWdGua"
       target="_blank"
       rel="noopener noreferrer"
       className="community-card discord-card"
